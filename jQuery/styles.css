@@ -1,0 +1,17 @@
+/* body{
+    background-color: black;
+} */
+
+.big-title{
+    font-size: 10rem;
+    color: yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.margin-50{
+    margin: 50px;
+}
+
+h1:hover{
+    color: purple;
+}

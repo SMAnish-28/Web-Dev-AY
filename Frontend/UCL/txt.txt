@@ -1,0 +1,24 @@
+commands: ls cd mkdir
+cd /
+cd ..
+
+up 
+down
+
+ctrl + a -> start
+ctrl + e -> end
+ctrl + Alt + click 
+ctrl + u -> clear
+---
+touch
+open 
+start
+rm
+
+touch text.txt
+open text.txt
+code text.txt -> opens in VSCode
+rm text.txt -> removes a single file
+// pwd -> print working directory //
+rm * -> removes all files in a directory
+rm -r Folder/ -> to remove a directory

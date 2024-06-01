@@ -1,0 +1,15 @@
+Full Stack = Frontend + Backend
+
+Server - is just computer, should be live 24/7
+Application - Logic that runs on that computer, respond to requests
+Database - Store user data, persistent storage, even if your server shuts down, you won't lose your saved data
+
+Status code - response to server requests, if it is invalid, it will return 404 error code
+
+WebApp 
+- login -> email & password -> Database -> Logic 
+---
+
+backend Tools & Technologies - the tools used to build modern web applications
+Frontend - HTML, CSS, JS(react, angular, vue)
+Backend - Java(Spring), Ruby(Rails), PHP(Laravel, Cake), C#(ASP.NET), Python(Django, Flask), JS(Node.js)

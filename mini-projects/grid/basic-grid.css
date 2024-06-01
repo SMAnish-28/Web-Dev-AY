@@ -1,0 +1,22 @@
+*{
+    background-color: bisque;
+}
+
+.grid-container{
+    display: grid;
+    /* grid-template-columns: repeat(12, 1fr); */
+    /* grid-template-columns: repeat(12, minmax(240px, 1fr)); */
+    /* grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); */
+    grid-template-columns: repeat(auto-fit, minmax(240px, 300px));
+    gap: 1rem;
+    text-align: center;
+}
+
+.element{
+    background-color: teal;
+    color: white;
+    height: 50px;
+    line-height: 48px;
+    font-size: large;
+    border-radius: 10%;
+}

@@ -1,0 +1,37 @@
+What is Node.js?
+-> An asynchronous event-driven Javascript runtime, Node.js is designed to build scalable network applications
+
+Why use Frameworks?
+-> provide prebuild components
+- Reuse components. Reduce overhead
+- Reading files, networking, debugger, writing files, data streams, error codes, url strings, diagonistics, testa
+
+Using Node
+- Versioning, REPL and running code using Node.
+
+version check : `node -v`
+REPL : Read Eval Print Loop - it is a computer environment where user inputs are read and evaluated, and then the results are returned to the user
+> use REPL : node
+>> .help
+>> 3 + 5
+>> let a = 3
+>> a + 12
+Running JS files : node index.js
+
+Native Node Modules - Leveraging Node
+Native Modules - nodejs.org/docs/latest-v18.x/api/fs.html
+
+fs.writeFile
+fs.readFile
+
+NPM -> Node Package Manager
+utilities and tools
+open source
+
+> npm init
+> npm install <pkg-name>
+eg- sillyname - random name generator
+
+ECMAScript Modules -> ESM
+Common JS -> CJS
+
